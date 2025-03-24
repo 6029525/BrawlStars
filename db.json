@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Shelly",
+      "gadget": "Super Shell",
+      "health": 3600
+    },
+    {
+      "id": 2,
+      "name": "Colt",
+      "gadget": "Speedloader",
+      "health": 2800
+    },
+    {
+      "id": 3,
+      "name": "El Primo",
+      "gadget": "Suplex Supplement",
+      "health": 4800
+    }
+  ]

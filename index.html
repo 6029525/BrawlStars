@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BrawlStars</title>
+  <style>
+    .fighter-card { border: 2px solid #ff3366; padding: 10px; margin: 10px; }
+    button { margin: 5px; padding: 8px; }
+  </style>
+</head>
+<body>
+  <div id="buttons-container"></div>
+  <div id="character-data"></div>
+
+  <!-- Template voor fighters -->
+  <template id="fighter-template">
+    <div class="fighter-card">
+      <h2 class="name"></h2>
+      <p class="gadget"></p>
+      <p class="health"></p>
+    </div>
+  </template>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>
